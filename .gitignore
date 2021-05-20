@@ -1,3 +1,13 @@
 /rasa-for-beginners/venv/
 
 .idea/
+
+venv/
+
+rasa-for-beginners/env.sh
+
+rasa-for-beginners/.env
+
+rasa-for-beginners/models/
+
+rasa-for-beginners/actions/__pycache__/
